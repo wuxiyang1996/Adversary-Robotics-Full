@@ -45,7 +45,7 @@ pip install openai opencv-python numpy
 
 ### KnowNo
 Please follow the installation instructions given in the [**KnowNo**](https://github.com/google-research/google-research/tree/master/language_model_uncertainty)
-codebase and the original KnowNo jupyter notebook provided [**here**](KnowNo/KnowNo_TabletopSim.ipynb)
+codebase and the original KnowNo jupyter notebook provided [**here**](Knowno/KnowNo_TabletopSim.ipynb)
 
 ### VIMA
 Please follow the installation instructions given in the [**VIMA**](https://github.com/vimalabs/VIMA)
