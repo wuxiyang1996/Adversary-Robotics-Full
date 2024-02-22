@@ -28,7 +28,7 @@ threatening their reliability and safety.
 </p>
 
 ## The Attack
-Multi-modal Attacks to LLMs/VLMs in Robotic Applications. The middle pipeline is an abstract robotic system with 
+**Multi-modal Attacks to LLMs/VLMs in Robotic Applications.** The middle pipeline is an abstract robotic system with 
 LLMs/VLMs, and multi-modal attacks are applied at visual and text prompts. The left-hand side provides different 
 attacks to images, such as reducing image quality, applying transformation, and adding new objects. The right-hand side 
 shows different types of attacks in text, including simple rephrasing, stealth rephrasing, extension rephrasing, and 
